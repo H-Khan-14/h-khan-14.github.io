@@ -2,7 +2,7 @@
   "main": {
     "name": "Haseeb Khan",
     "occupation": "Front End Web Developer",
-    "description": "I am a Web Developer that is currently working as a contractor at WonderMakr. Though I am primarily a Front End Web Developer I know a few things about Design, UI/UX and Back End Development. In the near future I aspire to be a Full Stack Developer.",
+    "description": "currently working as part of the Engineering team at WonderMakr. Though primarily a Web Developer, I have experience in back end development as well as UX and UI Design. Full Stack Developer title in progress!",
     "image": "profilepic.jpg",
     "bio": "As a developer what sets me apart from others is that I am a quick learner with excellent time management skills with the ability to adapt to changing circumstances. I am a great team player with excellent skills in communication along with a technical mind for problem solving. I also have a passion for making dynamic, responsive and accessible web applications through coding magic. Lastly I am committed to making a worldwide web that works for everyone.",
     "contactmessage": "Have any questions? Feel free to send me a message below.",
@@ -11,7 +11,6 @@
       "city": "Toronto",
       "state": "Canada"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload": "public/assets/HKhan-Resume2021-Latest.pdf",
     "social": [
       {

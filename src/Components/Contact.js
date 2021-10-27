@@ -60,7 +60,7 @@ class Contact extends Component {
                         </div>
 
                         <div className="submit-center">
-                           <a class="mailto" href="mailto:haseeb.k.dev@gmail.com"><button className="submit">Submit</button></a>
+                           <a className="mailto" href="mailto:haseeb.k.dev@gmail.com"><button className="submit">Submit</button></a>
                            <span id="image-loader">
                               <img alt="" src="images/loader.gif" />
                            </span>
