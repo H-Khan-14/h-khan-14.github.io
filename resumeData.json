@@ -1,0 +1,260 @@
+{
+  "main": {
+    "name": "Haseeb Khan",
+    "occupation": "Front End Web Developer",
+    "description": "currently working as part of the Engineering team at WonderMakr. Though primarily a Web Developer, I have experience in back end development as well as UX and UI Design. Full Stack Developer title in progress!",
+    "image": "profilepic.jpg",
+    "bio": "As a developer what sets me apart from others is that I am a quick learner with excellent time management skills with the ability to adapt to changing circumstances. I am a great team player with excellent skills in communication along with a technical mind for problem solving. I also have a passion for making dynamic, responsive and accessible web applications through coding magic. Lastly I am committed to making a worldwide web that works for everyone.",
+    "contactmessage": "Have any questions? Feel free to send me a message below.",
+    "email": "haseeb.k.dev@gmail.com",
+    "address": {
+      "city": "Toronto",
+      "state": "Canada"
+    },
+    "resumedownload": "public/assets/HKhan-Resume2021-Latest.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/haseeb-ahmad-khan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/H-Khan-14",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Toronto",
+        "degree": "Honors Bachelor of Arts",
+        "graduated": "2016",
+        "description": "Double Major in Economics and Political Sciences"
+      },
+      {
+        "school": "RED Academy",
+        "degree": "Web Development Diploma",
+        "graduated": "2018",
+        "description": "Web Development Professional Program"
+      }
+    ],
+    "work": [
+      {
+        "company": "WonderMakr",
+        "title": "Web Developer",
+        "years": "January 2021 - August 2021",
+        "description": "• Ensure cross-browser, cross-platform, and multiple device type compatibility for all web solutions and perform any necessary QA on finished products.",
+        "description2": "• Build custom plugins as well as implement and maintain content management systems (primarily WordPress), including installation, configuration, and troubleshooting.",
+        "description3": "• Apply development expertise with custom post types, custom fields, plugins and themes for high-traffic Wordpress sites."
+      },
+      {
+        "company": "AM Development",
+        "title": "Web Developer",
+        "years": "December 2018 - April 2021",
+        "description": "• Predominantly use React & Redux to develop front-end services with other developers in conjunction with graphic designers to create clean and simple interfaces.",
+        "description2": "• Collaborate with UI/UX Designers to assess and meet the requirements and needs of the client based on their specifications.",
+        "description3": "• For certain websites ensured web content is WCAG(2.0) AA compliant and if not provide remediation strategy.",
+        "description4": "• Build responsive and modern sites with a mobile-first approach while going through the software development life cycle process.",
+        "description5": "•  Increase web traffic by improving navigation, dynamic media sections and adding social media plugins."
+      },
+      {
+        "company": "Planned Parenthood",
+        "title": "Web Developer",
+        "years": "December 2018 - September 2019",
+        "description": "• Engaged in discovery sessions regarding design and architectural details with client to ensure the website met their standards as well as the needs of their customers while maintaining feel and brand awareness.",
+        "description2": "• Translated design team's UI/UX wireframes and mockups into responsive, interactive features using PHP, SASS, Gulp, Wordpress and JavaScript.",
+        "description3": "• Created custom plugins, templates and functions for this WordPress based website.",
+        "description4": "• Revamped and optimized Planned Parenthood's existing website to be more user friendly with a fresh, simplistic and modern look.",
+        "description5": "• Implemented seamless handoff by providing detailed technical software documentation to the client upon completion of project."
+      },
+      {
+        "company": "Infantryman",
+        "title": "CAF Reserves",
+        "years": "November 2018 - Present",
+        "description": "• Trained to lead, inspire and perform in extreme conditions by performing drills that required constant teamwork in the field.",
+        "description2": "• Taught to perform well under pressure and construct educated decisions in a timely manner by training in harsh and unforgiving terrain during large scale drills in the field with over 100 people.",
+        "description3": "• Deeply ingrained discipline and teamwork skills.",
+        "description4": "",
+        "description5": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "JQuery",
+        "level": "80%"
+      },
+      {
+        "name": "GitHub",
+        "level": "80%"
+      },
+      {
+        "name": "SASS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ALOHA APPAREL CO.",
+        "category": "A shopping website developed to show customers the new Spring and Summer Collection of the ficticious Aloha Apparel Company and subscribe for updates via email.",
+        "image": "aloha2.png",
+        "url": "https://github.com/H-Khan-14/Project-01-Aloha-Webpage"
+      },
+      {
+        "title": "INSTANEWS",
+        "category": "A Web Application developed through the use of the New York Times API to bring the relevent news to you instantly.",
+        "image": "instanews1.png",
+        "url": "https://github.com/H-Khan-14/New-York-Times"
+      },
+      {
+        "title": "PONG",
+        "category": "A recreation of the class Pong game which is a two-dimensional sports game that simulates table tennis. Players use the paddles to hit a ball back and forth.",
+        "image": "pong.png",
+        "url": "https://github.com/H-Khan-14/Project-03"
+      },
+      {
+        "title": "NEWTUBE",
+        "category": "A React based web application that through the use of a Youtube API allows you to search and watch the latest Youtube Videos.",
+        "image": "youtube-logo.png",
+        "url": "https://github.com/H-Khan-14/Videos"
+      },
+      {
+        "title": "Stream",
+        "category": "A React/Redux based web application that allows you to record, post, play and search videos.",
+        "image": "stream-logo.jpeg",
+        "url": "https://github.com/H-Khan-14/React-Redux-Streaming-App"
+      },
+      {
+        "title": "To Do List App",
+        "category": "A React based web application that allows you to make a list of tasks, complete and remove them.",
+        "image": "todolist.webp",
+        "url": "https://github.com/H-Khan-14/React_Todo_App"
+      },
+      {
+        "title": "OpenTable",
+        "category": "A React based web application that through a web API and search parameters will show you (fictional)restaurants near you.",
+        "image": "opentable.png",
+        "url": "https://github.com/H-Khan-14/OpenTable"
+      },
+      {
+        "title": "The Blog",
+        "category": "A React based web application that post blog messages and reply to those messages.",
+        "image": "blog.png",
+        "url": "https://github.com/H-Khan-14/Blog"
+      },
+      {
+        "title": "UnSplash Pics",
+        "category": "A React based web application that through the use of the Unsplash API allows you to search their content.",
+        "image": "unsplash.jpeg",
+        "url": "https://github.com/H-Khan-14/Pics"
+      },
+      {
+        "title": "React Hooks",
+        "category": "A React based web application that utilizes React Hooks to show Latin phrases used by popular authors",
+        "image": "hook.png",
+        "url": "https://github.com/H-Khan-14/Simple-Hooks"
+      },
+      {
+        "title": "React/Redux Translate",
+        "category": "A React/Redux based web application that allows you to translate simple words to English and Japanese",
+        "image": "translate.png",
+        "url": "https://github.com/H-Khan-14/React-Redux-Translate"
+      },
+      {
+        "title": "Approval Card",
+        "category": "A React based web application that allows you to make cards with comments on them that you can then accept/reject.",
+        "image": "approve-reject.png",
+        "url": "https://github.com/H-Khan-14/React-Components"
+      },
+      {
+        "title": "Seasons",
+        "category": "A React based web application that through geolocation and time will tell you what season it is.",
+        "image": "sunflake.jpeg",
+        "url": "https://github.com/H-Khan-14/Seasons"
+      },
+      {
+        "title": "JSX",
+        "category": "A React based web application that is meant to act as a basis for learning React.",
+        "image": "jsx-logo.png",
+        "url": "https://github.com/H-Khan-14/JSX"
+      },
+      {
+        "title": "Calc",
+        "category": "A web application that through the use of HTML, CSS and Javascript is a functional calculator.",
+        "image": "calc.png",
+        "url": "https://github.com/H-Khan-14/Calculator"
+      },
+      {
+        "title": "Quotes on Dev",
+        "category": "A custom wordpress application that is used to show a database of quotes on random.",
+        "image": "devquote.png",
+        "url": "https://github.com/H-Khan-14/Quotes-On-Dev"
+      },
+      {
+        "title": "Inhabitent",
+        "category": "A custom wordpress application of an outdoor sporting goods store.",
+        "image": "inhabitent.png",
+        "url": "https://github.com/H-Khan-14/Inhabitent"
+      },
+      {
+        "title": "Planned Parenthood",
+        "category": "A wordpress website created for the toronto PPT office.",
+        "image": "ppt.png",
+        "url": "http://ppt.on.ca/"
+      },
+      {
+        "title": "Songs",
+        "category": "A React based web application that displays a list of songs and their details.",
+        "image": "songs.png",
+        "url": "https://github.com/H-Khan-14/Songs"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Haseeb is passionate about writing code and solving clients’ problems through the development of creative and innovative software. He is vocal about his software ideas, but respects his superiors and enthusiastically tackles every assignment as he is directed. He is friendly, easy to get along with, well-liked by our clients and respected by his co-workers.",
+        "text2": "Forever the student, Haseeb takes courses frequently to stay up-to-date on the latest techniques in software development. He is able to thoroughly focus on every project and is not easily distracted. He comprehends instructions quickly and is flexible when changes have to be made in the original plan. Haseeb is a skillful communicator both written and verbal and works extremely well with our clients, some of whom request him specifically to handle their jobs.",
+        "text3": "Haseeb is dedicated to providing quality work. He checks and rechecks his software before turning it in for presentation to the client. He strives to make his programs as user friendly as possible understanding that not everyone is an expert programmer. He is detail oriented and rarely has any bugs in his finished product.",
+        "text4": "I am confident that Haseeb can meet any challenge you place before him, and I believe you would be exceedingly pleased with his work.",
+        "user": "Ali Maqsood"
+      },
+      {
+        "text": "I had the pleasure of working with Haseeb on the web development team at wonderMakr. He was a proactive and enthusiastic co-worker who was always looking for new tasks and challenges. Haseeb worked on the front-end of various projects ranging from Wordpress sites to fully custom web applications using HTML, CSS, and Javascript. He has a good eye for detail and a passion for what he does that shines through on every project.",
+        "user": "Chris Fairhurst"
+      },
+      {
+        "text": "Haseeb jumped into the team at wonderMakr to push several web properties to the next level. His passion for the work, desire to learn and expand his skill set and optimistic approach to each project was evident at every turn. In combination with his professionalism, attention to detail and sense of humour - truly made him a joy to have on our team.",
+        "user": "Carissa Stewart"
+      }
+    ]
+  }
+}
